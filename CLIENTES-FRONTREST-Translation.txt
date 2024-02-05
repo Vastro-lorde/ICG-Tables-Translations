@@ -1,0 +1,69 @@
+Sure, here are the translations for the column names to English:
+
+- CODCLIENTE: Client Code
+- CODCONTABLE: Accounting Code
+- NOMBRECOMERCIAL: Commercial Name
+- ALIAS: Alias
+- DIRECCION1: Address 1
+- CODPOSTAL: Postal Code
+- POBLACION: City
+- PROVINCIA: Province
+- PAIS: Country
+- PERSONACONTACTO: Contact Person
+- TELEFONO1: Phone 1
+- TELEFONO2: Phone 2
+- FAX: Fax
+- FAXPEDIDOS: Fax for Orders
+- TELEX: Telex
+- E_MAIL: Email
+- CODCLISUYO: Your Client Code
+- NUMCUENTA: Account Number
+- CODBANCO: Bank Code
+- NUMSUCURSAL: Branch Number
+- DIGCONTROLBANCO: Bank Control Digit
+- CODPOSTALBANCO: Bank Postal Code
+- CODSWIFT: SWIFT Code
+- NOMBREBANCO: Bank Name
+- DIRECCIONBANCO: Bank Address
+- POBLACIONBANCO: Bank City
+- ENVIOPOR: Ship By
+- ENVIODIRECION: Shipping Address
+- ENVIOCODPOSTAL: Shipping Postal Code
+- ENVIOPOBLACION: Shipping City
+- ENVIOPROVINCIA: Shipping Province
+- ENVIOPAIS: Shipping Country
+- CANTPORTESPAG: Number of Paid Ports
+- NUMDIASENTREGA: Number of Delivery Days
+- RIESGOCONCEDIDO: Granted Risk
+- TIPO: Type
+- RECARGO: Surcharge
+- ZONA: Zone
+- CODVENDEDOR: Salesperson Code
+- DIAPAGO1: Payment Day 1
+- DIAPAGO2: Payment Day 2
+- OBSERVACIONES: Observations
+- CODFORMAPAGO: Payment Method Code
+- DTO: Discount
+- IDTARIFAV: Favorite Rate ID
+- FECHAMODIFICADO: Modified Date
+- ESTADO: Status
+- NUMTARJETA: Card Number
+- FECHANACIMIENTO: Date of Birth
+- SEXO: Gender
+- CIF: Tax Identification Number
+- FACTSINIMPUESTOS: Invoice Without Taxes
+- DIRECCION2: Address 2
+- NOMBRECLIENTE: Client Name
+- DESCATALOGADO: Discontinued
+- MOBIL: Mobile
+- REGIMFACT: Billing Regime
+- CODPAIS: Country Code
+- FACTURARCONIMPUESTO: Invoice With Taxes
+- FOTOCLIENTE: Client Photo
+- TIPODOC: Document Type
+- JURIDICA: Legal Entity
+- ESCLIENTEDELGRUPO: Group Client
+- BLOQUEADO: Blocked
+- MAXIMOVENTA_APLICAR: Maximum Sales To Apply
+- MAXIMOVENTA_IMPORTE: Maximum Sales Amount
+- MAXIMOVENTA_CODMONEDA: Maximum Sales Currency Code

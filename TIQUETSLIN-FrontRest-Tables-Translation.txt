@@ -1,0 +1,67 @@
+Certainly! Here are the English equivalents for the provided terms:
+
+1. FO (could be a field or identifier, without more context)
+2. SERIE - Series
+3. NUMERO - Number
+4. N (could be an abbreviation for Number)
+5. NUMLINEA - Line Number
+6. CODARTICULO - Article Code
+7. DESCRIPCION - Description
+8. COSTE - Cost
+9. UNIDADES - Units
+10. PRECIO - Price
+11. PRECIOIVA - Price with VAT
+12. PRECIODEFECTO - Default Price
+13. CODVENDEDOR - Vendor Code
+14. CODFORMATO - Format Code
+15. CODMACRO - Macro Code
+16. TIPO - Type
+17. TIPOIVA - Type of VAT
+18. DTO - Discount
+19. REFERENCIA - Reference
+20. HORA - Hour
+21. COSTEIVA - Cost with VAT
+22. TOTAL - Total
+23. IVA - VAT
+24. REQ (could be a field or identifier, without more context)
+25. SORDERTIQUET - Order Ticket Sort
+26. NORDERTIQUET - Order Ticket Number
+27. ABONODE_FO - Abono Field or Identifier
+28. ABONODE_SERIE - Abono Series
+29. ABONODE_NUMERO - Abono Number
+30. ABONODE_N - Abono Number (N)
+31. DETALLEMODIF - Modified Detail
+32. DETALLEDENUMLINEA - Detailed Line Number
+33. CODTARIFA - Tariff Code
+34. FAMILIAAENA - AENA Family
+35. IDMOTIVODTO - Discount Reason ID
+36. HORACOCINA - Cooking Time
+37. DTOANTESPROMOCION - Discount Before Promotion
+38. TARIFAANTESPROMOCION - Tariff Before Promotion
+39. IDPROMOCION - Promotion ID
+40. IMPORTEPROMOCION - Promotion Amount
+41. IMPORTEPROMOCIONIVA - Promotion Amount with VAT
+42. IMPORTEANTESPROMOCION - Amount Before Promotion
+43. IMPORTEANTESPROMOCIONIVA - Amount Before Promotion with VAT
+44. ABONODE_NUMLINEA - Abono Line Number
+45. TIPODELIVERY - Delivery Type
+46. IDMOTIVOABONO - Abono Reason ID
+47. IDLINEAMINUTA - Minuta Line ID
+48. IMPORTETESORERIAMIXMATCH - Mixed Match Cash Amount
+49. PUNTOSMIXMATCH - Mixed Match Points
+50. ABONODE_PUNTOSMIXMATCH - Abono Mixed Match Points
+51. ISPRECIO2 - Is Price 2
+52. CODFAVORITO - Favorite Code
+53. CODARTORG - Original Article Code
+54. DTOANTESPROMOCIONAENA - Discount Before Promotion AENA
+55. IMPORTEANTESPROMOCIONAENA - Amount Before Promotion AENA
+56. IMPORTEIVAANTESPROMOCIONAENA - Amount with VAT Before Promotion AENA
+57. DTOANTESSERVART - Discount Before Servart
+58. IDMOTIVODTOANTESSERVART - Discount Reason ID Before Servart
+59. REGALOMENU - Menu Gift
+60. GUIDLINEA - Line GUID
+61. GUIDLINEAABONO - Abono Line GUID
+62. ABONODE_CLAVEPRIVADA - Abono Private Key
+63. ABONODE_FECHA - Abono Date
+64. ORDERTICKETIMPSERIE - Order Ticket Impression Series
+65. ORDERTICKETIMPNUMERO - Order Ticket Impression Number

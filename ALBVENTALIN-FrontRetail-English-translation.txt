@@ -1,0 +1,87 @@
+Certainly! Here are the English equivalents for the provided terms:
+
+1. NUMSERIE - Serial Number
+2. NUMALBARAN - Invoice Number
+3. N - Number
+4. NUMLIN - Line Number
+5. CODARTICULO - Article Code
+6. REFERENCIA - Reference
+7. DESCRIPCION - Description
+8. COLOR - Color
+9. TALLA - Size
+10. UNID1 - Unit 1
+11. UNID2 - Unit 2
+12. UNID3 - Unit 3
+13. UNID4 - Unit 4
+14. UNIDADESTOTAL - Total Units
+15. UNIDADESPAGADAS - Paid Units
+16. PRECIO - Price
+17. DTO - Discount
+18. TOTAL - Total
+19. COSTE - Cost
+20. PRECIODEFECTO - Default Price
+21. TIPOIMPUESTO - Type of Tax
+22. IVA - VAT
+23. REQ - Requirement
+24. CODTARIFA - Tariff Code
+25. CODALMACEN - Warehouse Code
+26. LINEAOCULTA - Hidden Line
+27. NUMKG - Number of Kilograms
+28. PRESTAMO - Loan
+29. CODVENDEDOR - Vendor Code
+30. SUPEDIDO - Supplied Order
+31. CONTACTO - Contact
+32. PRECIOIVA - Price with VAT
+33. CODFORMATO - Format Code
+34. CODMACRO - Macro Code
+35. UDSEXPANSION - Unit of Expansion
+36. EXPANDIDA - Expanded
+37. TOTALEXPANSION - Total Expansion
+38. COSTEIVA - Cost with VAT
+39. TIPO - Type
+40. FECHAENTREGA - Delivery Date
+41. COMISION - Commission
+42. NUMKGEXPANSION - Number of Kilograms in Expansion
+43. CARGO1 - Charge 1
+44. CARGO2 - Charge 2
+45. HORA - Hour
+46. UDSABONADAS - Paid Units
+47. ABONODE_NUMSERIE - Abono Serial Number
+48. ABONODE_NUMALBARAN - Abono Invoice Number
+49. ABONODE_N - Abono Number
+50. FECHACADUCIDAD - Expiry Date
+51. UDMEDIDA2 - Unit of Measure 2
+52. UDMEDIDA2EXPANSION - Unit of Measure 2 in Expansion
+53. IDPROMOCION - Promotion ID
+54. IMPORTEANTESPROMOCION - Amount Before Promotion
+55. IMPORTEANTESPROMOCIONIVA - Amount with VAT Before Promotion
+56. IMPORTEPROMOCION - Promotion Amount
+57. IMPORTEPROMOCIONIVA - Promotion Amount with VAT
+58. PORCRETENCION - Retention Percentage
+59. DTOANTESPROMOCION - Discount Before Promotion
+60. STOCK - Stock
+61. COSTE2 - Cost 2
+62. COSTEIVA2 - Cost with VAT 2
+63. IDMOTIVODTO - Discount Reason ID
+64. DETALLEMODIF - Modified Detail
+65. DETALLEDENUMLINEA - Detailed Line Number
+66. TIPODELIVERY - Delivery Type
+67. FAMILIAAENA - AENA Family
+68. TIPORETENCION - Type of Retention
+69. ABONODELINEA - Abono Line
+70. HORACOCINA - Cooking Time
+71. IDMOTIVOABONO - Abono Reason ID
+72. ISPRECIO2 - Is Price 2
+73. TARIFAANTESPROMOCION - Tariff Before Promotion
+74. MMPEDIDO - MMPedido
+75. IMPORTETESORERIAMIXMATCH - Mixed Match Cash Amount
+76. OMNICHANNEL - Omnichannel
+77. PUNTOSMIXMATCH - Mixed Match Points
+78. ABONODE_PUNTOSMIXMATCH - Abono Mixed Match Points
+79. DTOANTESPROMOCIONAENA - Discount Before Promotion AENA
+80. IMPORTEANTESPROMOCIONAENA - Amount Before Promotion AENA
+81. IMPORTEIVAANTESPROMOCIONAENA - Amount with VAT Before Promotion AENA
+82. ABONODE_DOCUMENTOEXTERNO - Abono External Document
+83. ABONODE_NUMLIN - Abono Line Number
+84. ABONODE_CLAVEPRIVADA - Abono Private Key
+85. ABONODE_FECHA - Abono Date

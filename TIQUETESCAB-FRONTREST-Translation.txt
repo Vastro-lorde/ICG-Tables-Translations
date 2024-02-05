@@ -1,0 +1,111 @@
+Sure, here's the translation of the column names to English:
+
+- FO
+- SERIE: Series
+- NUMERO: Number
+- N
+- NUMFACTURA: Invoice Number
+- SALA: Room
+- MESA: Table
+- FECHA: Date
+- HORAINI: Start Time
+- HORAFIN: End Time
+- DIASEMANA: Day of the Week
+- CODCLIENTE: Client Code
+- CODVENDEDOR: Salesperson Code
+- NUMCOMENSALES: Number of Diners
+- CAJA: Cash Register
+- TOTALCOSTE: Total Cost
+- TOTALBRUTO: Gross Total
+- CARGO: Charge
+- TOTALNETO: Net Total
+- Z
+- IVAINC: VAT Included
+- CODTARIFA: Tariff Code
+- ESBARRA: Is Bar
+- SUBTOTAL: Subtotal
+- IMPRESIONES: Prints
+- BASEIMP1: Tax Base 1
+- CODTIPOTASA1: Tax Type Code 1
+- CUOTATASA1: Tax Amount 1
+- BASEIMP2: Tax Base 2
+- CODTIPOTASA2: Tax Type Code 2
+- CUOTATASA2: Tax Amount 2
+- BASEIMP3: Tax Base 3
+- CODTIPOTASA3: Tax Type Code 3
+- CUOTATASA3: Tax Amount 3
+- BASEIMP4: Tax Base 4
+- CODTIPOTASA4: Tax Type Code 4
+- CUOTATASA4: Tax Amount 4
+- BASEIMP5: Tax Base 5
+- CODTIPOTASA5: Tax Type Code 5
+- CUOTATASA5: Tax Amount 5
+- BASEIMP6: Tax Base 6
+- CODTIPOTASA6: Tax Type Code 6
+- CUOTATASA6: Tax Amount 6
+- AUTOMATICO: Automatic
+- NUMROLLO: Roll Number
+- SERIEREL: Related Series
+- NUMREL: Related Number
+- PUNTOSACUM: Accumulated Points
+- IDTARJETA: Card ID
+- ABONADO: Paid
+- CODALMACEN: Warehouse Code
+- FECHAANULACION: Cancellation Date
+- TOTALCOSTEIVA: Total Cost with VAT
+- ENTREGADO: Delivered
+- CAMBIO: Change
+- PROPINA: Tip/Gratuity
+- VENDEDORMODIFICADO: Modified Salesperson
+- FECHAMODIFICADO: Modified Date
+- SERIEFISCAL: Fiscal Series
+- SERIEFISCAL2: Fiscal Series 2
+- NUMEROFISCAL: Fiscal Number
+- MESALIBERADA: Released Month
+- TIPODELIVERY: Delivery Type
+- ESTADODELIVERY: Delivery Status
+- HORAASIGNADO: Assigned Time
+- HORAENTREGADO: Delivered Time
+- HORAELABORADO: Elaboration Time
+- PUNTOSCANJEADOS: Redeemed Points
+- TOTALPUNTOS: Total Points
+- SALDOTARJETA: Card Balance
+- SERIEFAC: Invoice Series
+- NFAC: Invoice Number
+- TIQUETCOMP: Complementary Ticket
+- AGRUPADO: Grouped
+- IDHOTEL: Hotel ID
+- TIPOACTIVIDAD: Activity Type
+- SUPEDIDO: Super Order
+- IDMOTIVODTO: Discount Reason ID
+- FECHAREAL: Real Date
+- CLEANCASHCONTROLCODE1: Clean Cash Control Code 1
+- CLEANCASHCONTROLCODE2: Clean Cash Control Code 2
+- CORREUNICO: Unique Run
+- HORATOTAL: Total Time
+- HORACOCINA: Kitchen Time
+- NUMIMPRESIONES: Number of Prints
+- FECHAINI: Start Date
+- FECHAFIN: End Date
+- CODDIRECCIONENVIO: Shipping Address Code
+- CODZONA: Zone Code
+- FECHARESERVA: Reservation Date
+- RECURSOHOTEL: Hotel Resource
+- ALIASESPERA: Waiting Alias
+- NUMSERVICIO: Service Number
+- IDMINUTA: Menu ID
+- TARJETACONPLUGIN: Card with Plugin
+- DTOANTESPROMOCIONAENA: Discount Before Promotion
+- CARGOSERVART: Service Art Charge
+- CARGOANTESSERVART: Before Service Art Charge
+- IDMOTIVODTOANTESSERVART: Discount Reason Before Service Art
+- DTOSERVART: Service Art Discount
+- IMPORTECARGOSERVART: Service Art Charge Amount
+- IMPORTEDTOSERVART: Service Art Discount Amount
+- TIPOTARJETA: Card Type
+- CODVENDEDORXML: Salesperson XML Code
+- FECHAPORTALREST: Rest Portal Date
+- ABONOCORREUNICO: Unique Run Payment
+- ALIAS: Alias
+- NUMIMPRESIONESSUBTOTAL: Subtotal Print Number
+- MOTIVODTOOBSERVACIONES: Discount Reason Observations

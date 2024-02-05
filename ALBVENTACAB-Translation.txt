@@ -1,0 +1,195 @@
+column names of ALBVENTACAB
+English equivalent for the given column names:
+
+- ABONOCORREUNICO: Unique Credit Note
+- AUTOMATICO: Automatic
+- CAJA: Cash Register
+- CARGOANTESSERVART: Charge Before Service Art
+- CARGOSERVART: Charge Service Art
+- CODCLIENTE: Client Code
+- CODCLIENTEPENDIENTE: Pending Client Code
+- CODENVIO: Shipping Code
+- CODMONEDA: Currency Code
+- CODTARIFA: Tariff Code
+- CODVENDEDOR: Vendor Code
+- CORREUNICO: Unique Correspondence
+- DESCARGAR: Download
+- DTOANTESPROMOCIONAENA: Discount Before Promotion AENA
+- DTOCOMANTESCANJEOPUNTOS: Discount Before Points Exchange
+- DTOCOMERCIAL: Commercial Discount
+- DTOPP: Points Exchange Discount
+- DTOSERVART: Service Art Discount
+- ENLACE_ASIENTO: Link Seat
+- ENLACE_EJERCICIO: Link Exercise
+- ENLACE_EMPRESA: Link Company
+- ENLACE_USUARIO: Link User
+- ENTRANSITO: In Transit
+- ENVIOPOR: Sent By
+- ESBARRA: Bar
+- ESDEVOLUCION: Return
+- ESTADODELIVERY: Delivery State
+- ESUNPRESTAMO: Is a Loan
+- FACTORMONEDA: Currency Factor
+- FACTURADO: Invoiced
+- FECHA: Date
+- FECHACREACION: Creation Date
+- FECHAENTRADA: Entry Date
+- FECHAFIN: End Date
+- FECHAINI: Start Date
+- FECHAMODIFICADO: Modified Date
+- FECHAPORTALREST: Portal Rest Date
+- FECHARECEPCION: Reception Date
+- FECHATRASPASO: Transfer Date
+- FO: Fiscal Opening
+- HORA: Hour
+- HORAASIGNADO: Assigned Hour
+- HORACOCINA: Kitchen Hour
+- HORAELABORADO: Elaboration Hour
+- HORAENTREGADO: Delivered Hour
+- HORAFIN: End Hour
+- HORATOTAL: Total Hour
+- IDESTADO: State ID
+- IDHOTEL: Hotel ID
+- IDMOTIVODTO: Discount Reason ID
+- IDMOTIVODTOANTESSERVART: Discount Reason Before Service Art ID
+- IDTARJETA: Card ID
+- IMPORTECARGOSERVART: Amount Charged Before Service Art
+- IMPORTEDTOSERVART: Amount Discounted Before Service Art
+- IMPRESIONES: Impressions
+- IVAINCLUIDO: VAT Included
+- MESA: Table
+- MMFIJADO: Fixed MM
+- MODIFIEDTOTALES: Modified Totals
+- MOTIVODTOOBSERVACIONES: Discount Reason Observations
+- N: Number
+- NBULTOS: Number of Packages
+- NFAC: Invoice Number
+- NORECIBIDO: Not Received
+- NUMALBARAN: Number of Delivery Notes
+- NUMCOMENSALES: Number of Guests
+- NUMEROASUNTO: Number Subject
+- NUMEROSERIAL: Serial Number
+- NUMFAC: Invoice Number
+- NUMIMPRESIONES: Number of Impressions
+- NUMROLLO: Roll Number
+- NUMSERIE: Serial Number
+- NUMSERIEFAC: Invoice Serial Number
+- NUMSERVICIO: Service Number
+- PORC: Percentage
+- PORTESPAG: Paid For
+- PUNTOSACUM: Accumulated Points
+- PUNTOSCANJEADOS: Redeemed Points
+- PUNTOSCANJEOPORDTOCOM: Points Exchange or Commercial Discount
+- REGIMFACT: Billing Regime
+- SALA: Room
+- SELECCIONADO: Selected
+- SERIE: Series
+- SERIEASUNTO: Subject Series
+- SUALBARAN: Delivery Note Number
+- TIPODOC: Document Type
+- TIPODOCFAC: Document Type Invoice
+- TIQUET: Ticket
+- TOTALBRUTO: Gross Total
+- TOTALCARGOSDTOS: Total Charges and Discounts
+- TOTALCOSTE: Total Cost
+- TOTALCOSTE2: Total Cost 2
+- TOTALCOSTEIVA: Total Cost with VAT
+- TOTALCOSTEIVA2: Total Cost with VAT 2
+- TOTALIMPUESTOS: Total Taxes
+- TOTALNETO: Net Total
+- TOTALPUNTOS: Total Points
+- TOTDTOCOMERCIAL: Total Commercial Discount
+- TOTDTOPP: Total Points Exchange Discount
+- TOTPORC: Total Percentage
+- TRANSPORTE: Transportation
+- TRASPASADO: Transferred
+- VIENEDEFO: Comes from FO
+- Z: Z
+
+column names for ALBVENTALIN
+
+- ABONODE_CLAVEPRIVADA: Credit Note Private Key
+- ABONODE_DOCUMENTOEXTERNO: Credit Note External Document
+- ABONODE_FECHA: Credit Note Date
+- ABONODE_N: Credit Note N
+- ABONODE_NUMALBARAN: Credit Note Delivery Note Number
+- ABONODE_NUMLIN: Credit Note Line Number
+- ABONODE_NUMSERIE: Credit Note Serial Number
+- ABONODE_PUNTOSMIXMATCH: Credit Note Points Mix Match
+- ABONODELINEA: Credit Note Line
+- CARGO1: Charge 1
+- CARGO2: Charge 2
+- CODALMACEN: Warehouse Code
+- CODARTICULO: Article Code
+- CODFORMATO: Format Code
+- CODMACRO: Macro Code
+- CODTARIFA: Tariff Code
+- CODVENDEDOR: Vendor Code
+- COLOR: Color
+- COMISION: Commission
+- CONTACTO: Contact
+- COSTE: Cost
+- COSTE2: Cost 2
+- COSTEIVA: Cost with VAT
+- COSTEIVA2: Cost with VAT 2
+- DESCRIPCION: Description
+- DETALLEDENUMLINEA: Detail of Line Number
+- DETALLEMODIF: Modified Detail
+- DTO: Discount
+- DTOANTESPROMOCION: Discount Before Promotion
+- DTOANTESPROMOCIONAENA: Discount Before Promotion AENA
+- EXPANDIDA: Expanded
+- FAMILIAAENA: Family AENA
+- FECHACADUCIDAD: Expiry Date
+- FECHAENTREGA: Delivery Date
+- HORA: Hour
+- HORACOCINA: Kitchen Hour
+- IDMOTIVOABONO: Credit Note Reason ID
+- IDMOTIVODTO: Discount Reason ID
+- IDPROMOCION: Promotion ID
+- IMPORTEANTESPROMOCION: Amount Before Promotion
+- IMPORTEANTESPROMOCIONAENA: Amount Before Promotion AENA
+- IMPORTEANTESPROMOCIONIVA: Amount Before Promotion with VAT
+- IMPORTEIVAANTESPROMOCIONAENA: Amount Before Promotion AENA with VAT
+- IMPORTEPROMOCION: Promotion Amount
+- IMPORTEPROMOCIONIVA: Promotion Amount with VAT
+- IMPORTETESORERIAMIXMATCH: Amount Treasurer Mix Match
+- ISPRECIO2: Is Price 2
+- IVA: VAT
+- LINEAOCULTA: Hidden Line
+- MMPEDIDO: MM Order
+- N: Number
+- NUMALBARAN: Delivery Note Number
+- NUMKG: Number of Kilograms
+- NUMKGEXPANSION: Number of Kilograms Expansion
+- NUMLIN: Line Number
+- NUMSERIE: Serial Number
+- OMNICHANNEL: Omni-Channel
+- PORCRETENCION: Percentage Retention
+- PRECIO: Price
+- PRECIODEFECTO: Default Price
+- PRECIOIVA: Price with VAT
+- PRESTAMO: Loan
+- PUNTOSMIXMATCH: Points Mix Match
+- REFERENCIA: Reference
+- REQ: Requirement
+- STOCK: Stock
+- SUPEDIDO: Supplied Order
+- TALLA: Size
+- TARIFAANTESPROMOCION: Tariff Before Promotion
+- TIPO: Type
+- TIPODELIVERY: Type of Delivery
+- TIPOIMPUESTO: Type of Tax
+- TIPORETENCION: Type of Retention
+- TOTAL: Total
+- TOTALEXPANSION: Total Expansion
+- UDMEDIDA2: Unit of Measure 2
+- UDMEDIDA2EXPANSION: Unit of Measure 2 Expansion
+- UDSABONADAS: Units Paid
+- UDSEXPANSION: Units Expansion
+- UNID1: Unit 1
+- UNID2: Unit 2
+- UNID3: Unit 3
+- UNID4: Unit 4
+- UNIDADESPAGADAS: Units Paid
+- UNIDADESTOTAL: Total Units

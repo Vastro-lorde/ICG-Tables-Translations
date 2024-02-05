@@ -1,0 +1,44 @@
+- CHEQUEADO: Checked
+- CODCLIENTE: Client Code
+- CODMONEDA: Currency Code
+- CODPROVEEDOR: Supplier Code
+- DTOCOMERCIAL: Commercial Discount
+- DTOPP: Prompt Payment Discount
+- ENVIOPOR: Shipped By
+- ESDEVOLUCION: Is a Return
+- ESUNDEPOSITO: Is a Deposit
+- FACTORMONEDA: Currency Factor
+- FACTURADO: Invoiced
+- FECHAALBARAN: Invoice Date
+- FECHAALBARANVENTA: Sales Invoice Date
+- FECHACREACION: Creation Date
+- FECHAENTRADA: Entry Date
+- FECHAMODIFICADO: Modified Date
+- HORA: Hour
+- IDESTADO: State ID
+- IVAINCLUIDO: VAT Included
+- IVANODEDUCIBLE: Non-Deductible VAT
+- MODIFIEDTOTALES: Modified Totals
+- N: Numeric
+- NBULTOS: Number of Packages
+- NFAC: Invoice Number
+- NORECIBIDO: Not Received
+- NUMALBARAN: Invoice Number
+- NUMFAC: Invoice Number
+- NUMIMPRESIONES: Number of Prints
+- NUMSERIE: Serial Number
+- NUMSERIEFAC: Invoice Serial Number
+- PORTESPAG: Paid By
+- REGIMFACT: Billing Regime
+- SELECCIONADO: Selected
+- SUALBARAN: Your Invoice
+- TIPODOC: Document Type
+- TIPODOCFAC: Invoice Document Type
+- TOTALBRUTO: Gross Total
+- TOTALCARGOSDTOS: Total Charges and Discounts
+- TOTALIMPUESTOS: Total Taxes
+- TOTALNETO: Net Total
+- TOTDTOCOMERCIAL: Total Commercial Discount
+- TOTDTOPP: Total Prompt Payment Discount
+- TRANSPORTE: Transportation
+
