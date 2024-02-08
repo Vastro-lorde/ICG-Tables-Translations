@@ -1,0 +1,72 @@
+
+- ASIENTOCARTERA: Transaction Ledger
+- BASE: Base
+- BINTARJETA: Bin Card
+- BLOQUEADO: Blocked
+- CAJACARTERA: Cash Box
+- CAJASALDADO: Cash Balance
+- CODFORMAPAGO: Payment Method Code
+- CODIGOINTERNO: Internal Code
+- CODIMPUESTO: Tax Code
+- CODMONEDA: Currency Code
+- CODTIPOPAGO: Payment Type Code
+- COMENTARIO: Comment
+- COMENTARIOLARGO: Long Comment
+- COMENTARIOVISIBLE: Visible Comment
+- COMPENSACION: Compensation
+- CONTRAPARTIDA: Counterpart
+- CUENTA: Account
+- CUENTAGASTOS: Expense Account
+- CUENTAIVA: VAT Account
+- CUENTAPUENTE: Bridge Account
+- CUENTAREQ: Requisition Account
+- CUOTAIVA: VAT Amount
+- CUOTAREQ: Requisition Amount
+- DESCUADRE: Discrepancy
+- ECPARTIDA: Entry Control
+- ENLACE_APUNTE: Entry Link
+- ENLACE_ASIENTO: Transaction Link
+- ENLACE_EJERCICIO: Exercise Link
+- ENLACE_EMPRESA: Company Link
+- ENLACE_USUARIO: User Link
+- ESTADO: Status
+- FACTORMONEDA: Currency Factor
+- FACTORMONEDAREAL: Real Currency Factor
+- FECHACARTERA: Ledger Date
+- FECHADESCONTADO: Discount Date
+- FECHADEVUELTO: Return Date
+- FECHADIRECTA: Direct Date
+- FECHADOCUMENTO: Document Date
+- FECHAMODIFICADO: Modified Date
+- FECHASALDADO: Balance Date
+- FECHATRASPASO: Transfer Date
+- FECHAVENCIMIENTO: Due Date
+- GENAPUNTE: General Entry
+- IMPORTE: Amount
+- IMPORTEGASTOS: Expense Amount
+- IMPRESO: Printed
+- MARCABORRADO: Deleted Flag
+- MORA: Delay
+- MULTIPLE: Multiple
+- N: Number
+- NUMEFECTO: Effect Number
+- NUMERO: Number
+- NUMEROREMESA: Remittance Number
+- NUMRECIBO: Receipt Number
+- NUMRTSTEF: RTSTEF Number
+- NUMTXNTEF: TXNTEF Number
+- ORIGEN: Origin
+- PORCIVA: VAT Percentage
+- PORCREQ: Requisition Percentage
+- POSICION: Position
+- REPOSICION: Reposition
+- RETENCION: Withholding
+- SERIE: Series
+- SERIERECIBO: Receipt Series
+- SUDOCUMENTO: Subdocument
+- TIPODOCUMENTO: Document Type
+- TRASPASADO: Transferred
+- VERSION: Version
+- ZCARTERA: Z Ledger
+- ZSALDADO: Z Balance
+

@@ -1,0 +1,55 @@
+- ABONODE_N: Subscription Number
+- ABONODE_NUMALBARAN: Subscription Invoice Number
+- ABONODE_NUMLIN: Subscription Line Number
+- ABONODE_NUMSERIE: Subscription Serial Number
+- CARGO1: Charge 1
+- CARGO2: Charge 2
+- CODALMACEN: Warehouse Code
+- CODARTICULO: Article Code
+- CODCLIENTE: Client Code
+- CODENVIO: Shipping Code
+- CODFORMATO: Format Code
+- CODMACRO: Macro Code
+- COLOR: Color
+- DEPOSITO: Deposit
+- DESCRIPCION: Description
+- DTO: Discount
+- DTOTEXTO: Discount Text
+- ESOFERTA: Is an Offer
+- EXPANDIDA: Expanded
+- IDMOTIVO: Reason ID
+- IMPORTECARGO1: Charge 1 Amount
+- IMPORTECARGO2: Charge 2 Amount
+- IMPORTEGASTOS: Expense Amount
+- IVA: VAT (Value Added Tax)
+- LINEAOCULTA: Hidden Line
+- N: Numeric
+- NUMALBARAN: Invoice Number
+- NUMKG: Number of Kilograms
+- NUMKGEXPANSION: Expanded Kilograms
+- NUMLIN: Line Number
+- NUMSERIE: Serial Number
+- PORCRETENCION: Retention Percentage
+- PORCRETENCIONICA: ICA Retention Percentage
+- PRECIO: Price
+- PRECIOVENTA: Selling Price
+- REFERENCIA: Reference
+- REQ: Requirement
+- SUPEDIDO: Supplier Order
+- TALLA: Size
+- TIPOIMPUESTO: Tax Type
+- TIPORETENCION: Retention Type
+- TIPORETENCIONICA: ICA Retention Type
+- TOTAL: Total
+- TOTALEXPANSION: Expanded Total
+- UDMEDIDA2: Unit of Measure 2
+- UDMEDIDA2EXPANSION: Expanded Unit of Measure 2
+- UDSABONADAS: Subscribed Units
+- UDSEXPANSION: Expanded Units
+- UNID1: Unit 1
+- UNID2: Unit 2
+- UNID3: Unit 3
+- UNID4: Unit 4
+- UNIDADESPAGADAS: Paid Units
+- UNIDADESTOTAL: Total Units
+- USARCOLTALLAS: Use Size Columns

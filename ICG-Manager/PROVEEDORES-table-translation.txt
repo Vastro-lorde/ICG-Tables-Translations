@@ -1,0 +1,96 @@
+1. ALIAS - Alias
+2. ALMACEN - Warehouse
+3. APTOCORREOS - Mailbox
+4. B2B_IDMAPPING - B2B ID Mapping
+5. B2B_IDMAPPINGPEDIDO - B2B ID Mapping Order
+6. B2B_ORIGEN - B2B Origin
+7. B2B_ORIGENPEDIDO - B2B Order Origin
+8. BLOQUEADO - Blocked
+9. CANTPORTESPAG - Paid Ports Quantity
+10. CIF - CIF (Tax Identification Code in Spain)
+11. CODBANCO - Bank Code
+12. CODCENTRAL - Central Code
+13. CODCENTRALPEDIDO - Order Central Code
+14. CODCLISUYO - Your Client Code
+15. CODCONTABLE - Accounting Code
+16. CODCONTABLECOMPRA - Purchase Accounting Code
+17. CODCONTABLEDMN - Domain Accounting Code
+18. CODEMPRESACONTABLE - Accounting Company Code
+19. CODIDIOMA - Language Code
+20. CODIGOIBAN - IBAN Code
+21. CODMONEDA - Currency Code
+22. CODPAIS - Country Code
+23. CODPOSTAL - Postal Code
+24. CODPOSTALBANCO - Bank Postal Code
+25. CODPROVEEDOR - Supplier Code
+26. CODSWIFT - SWIFT Code
+27. CODTALLA - Size Code
+28. CODVISIBLE - Visible Code
+29. COMPRARIVAINCLUIDO - Buy with Included VAT
+30. COMPRARSINIMPUESTOS - Buy without Taxes
+31. CUOTAIVADEDUCIBLE - Deductible VAT Quota
+32. DESCATALOGADO - Discontinued
+33. DIAPAGO1 - Payment Day 1
+34. DIAPAGO2 - Payment Day 2
+35. DIGCONTROLBANCO - Bank Control Digit
+36. DIRECCION1 - Address 1
+37. DIRECCION2 - Address 2
+38. DIRECCIONBANCO - Bank Address
+39. DTOCOMERCIAL - Commercial Discount
+40. E_MAIL - Email
+41. ENVIOCODPAIS - Shipping Country Code
+42. ENVIOCODPOSTAL - Shipping Postal Code
+43. ENVIODIRECION - Shipping Address
+44. ENVIOPAIS - Shipping Country
+45. ENVIOPOBLACION - Shipping Town
+46. ENVIOPOR - Shipping By
+47. ENVIOPROVINCIA - Shipping Province
+48. ESPROVDELGRUPO - Group Province
+49. FACTURARCONIMPUESTO - Invoice with Tax
+50. FAX - Fax
+51. FAXPEDIDOS - Order Fax
+52. FECHAMODIFICADO - Modified Date
+53. IVANODEDUCIBLE - Non-deductible VAT
+54. MOBIL - Mobile
+55. NIF20 - NIF (Tax Identification Code) 20
+56. NOACOGIDOROI - Not Under R.O.I.
+57. NOMBREBANCO - Bank Name
+58. NOMCOMERCIAL - Commercial Name
+59. NOMPROVEEDOR - Supplier Name
+60. NUMCUENTA - Account Number
+61. NUMDIASCANCELACION - Cancellation Days Number
+62. NUMDIASENTREGA - Delivery Days Number
+63. NUMSUCURSAL - Branch Number
+64. OBSERVACIONES - Observations
+65. ORDENADEUDO - Debit Order
+66. PAIS - Country
+67. PEDIDOMINIMO - Minimum Order
+68. PEDIDOSVENCIMSEGUN - Orders Due According To
+69. PERSONACONTACTO - Contact Person
+70. PERSONAJURIDICA - Legal Person
+71. POBLACION - Town
+72. POBLACIONBANCO - Bank Town
+73. PORCCUOTAIVADEDUCIBLE - Deductible VAT Quota Percentage
+74. PROVINCIA - Province
+75. RECC - Recc
+76. REGIMFACT - Invoicing Regime
+77. REGIMRET - Retention Regime
+78. REGIMRETICA - Retention Regime ICA
+79. RET_FECHAFINEXCLUSION - Exclusion End Date
+80. RET_FECHAINIEXCLUSION - Exclusion Start Date
+81. RET_PORCEXCLUSION - Exclusion Percentage
+82. RET_TIPORETENCIONIVA - VAT Retention Type
+83. SERIE - Series
+84. SERIEALBINDIRECTA - Direct ALB Series
+85. SERIEFACINDIRECTA - Indirect Invoice Series
+86. TELEFONO1 - Phone 1
+87. TELEFONO2 - Phone 2
+88. TELEX - Telex
+89. TIPO - Type
+90. TIPODOC - Document Type
+91. TIPODOCIDENT - Identity Document Type
+92. TIPOPORTES - Shipping Type
+93. TIPORET - Retention Type
+94. TRANSPORTE - Transport
+95. VENCIMSEGUN - Due According To
+96. VERSION - Version
